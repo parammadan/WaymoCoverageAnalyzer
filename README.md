@@ -323,6 +323,6 @@ To add a new kinematic feature (e.g. `longitudinal_jerk_rms`):
 
 Built by **Param Madan** and **Dhwanil Panchani**.
 
-- Param Madan — [GitHub](https://github.com/parammadan) · paramm1202@gmail.com
-- Dhwanil Panchani — [GitHub](https://github.com/DhwanilPanchani)
+- Param Madan 
+- Dhwanil Panchani 
 
