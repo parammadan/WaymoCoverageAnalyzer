@@ -318,3 +318,11 @@ To add a new kinematic feature (e.g. `longitudinal_jerk_rms`):
 5. Add the field to `ScenarioFeatureVector` in [waymo_coverage/features.py](waymo_coverage/features.py)
    and append its value to `feature_vector`
 6. `bash build.sh`
+
+## Authors
+
+Built by **Param Madan** and **Dhwanil Panchani**.
+
+- Param Madan — [GitHub](https://github.com/parammadan) · paramm1202@gmail.com
+- Dhwanil Panchani — [GitHub](https://github.com/DhwanilPanchani)
+
